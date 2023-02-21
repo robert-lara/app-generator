@@ -81,7 +81,6 @@ ng generate interceptor app --skip-tests true
 cd src/app
 mkdir data-transfer-objects
 mkdir enums
-mkdir library
 mkdir models
 mkdir pages
 mkdir pages/private
